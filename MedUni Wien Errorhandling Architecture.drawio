@@ -1,11 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="Seite-1" id="-Uf0eLgD_hmh0jyYLXzI">
-    <mxGraphModel dx="1456" dy="-577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="-373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nSp19AHW-V2Nkd6Aafnp-339" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;textShadow=1;fillColor=default;shadow=1;" value="" vertex="1">
           <mxGeometry height="300" width="420" x="180" y="5090" as="geometry" />
+        </mxCell>
+        <mxCell id="nSp19AHW-V2Nkd6Aafnp-318" edge="1" parent="1" source="nSp19AHW-V2Nkd6Aafnp-272" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.18;exitY=0.938;exitDx=0;exitDy=0;exitPerimeter=0;" target="nSp19AHW-V2Nkd6Aafnp-269" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="291.37" y="5168" as="sourcePoint" />
+            <mxPoint x="368.37" y="5178" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="nSp19AHW-V2Nkd6Aafnp-337" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;textShadow=1;fillColor=default;shadow=1;" value="" vertex="1">
           <mxGeometry height="427.5" width="398.67" x="161.33" y="4150" as="geometry" />
@@ -1035,7 +1041,7 @@
         </mxCell>
         <mxCell id="nSp19AHW-V2Nkd6Aafnp-274" connectable="0" parent="nSp19AHW-V2Nkd6Aafnp-273" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" value="Web Service embedded in AIF*" vertex="1">
           <mxGeometry relative="1" x="0.0717" as="geometry">
-            <mxPoint x="80" y="4" as="offset" />
+            <mxPoint x="-36" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nSp19AHW-V2Nkd6Aafnp-280" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="How Correlate outbound request &amp;lt;-&amp;gt; backend result" vertex="1">
@@ -1127,17 +1133,6 @@
         <mxCell id="nSp19AHW-V2Nkd6Aafnp-315" connectable="0" parent="nSp19AHW-V2Nkd6Aafnp-314" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=72 Brand;fontSource=https%3A%2F%2Fbrand.sap.com%2Ftypography%23active-gallery__item--1;" value="Error via Mail if needed" vertex="1">
           <mxGeometry relative="1" x="-0.1793" as="geometry">
             <mxPoint x="-1" y="40" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nSp19AHW-V2Nkd6Aafnp-318" edge="1" parent="1" source="nSp19AHW-V2Nkd6Aafnp-272" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.18;exitY=0.938;exitDx=0;exitDy=0;exitPerimeter=0;" target="nSp19AHW-V2Nkd6Aafnp-269" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="291.37" y="5168" as="sourcePoint" />
-            <mxPoint x="368.37" y="5178" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nSp19AHW-V2Nkd6Aafnp-319" connectable="0" parent="nSp19AHW-V2Nkd6Aafnp-318" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" value="AIF information" vertex="1">
-          <mxGeometry relative="1" x="0.0717" as="geometry">
-            <mxPoint x="3" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nSp19AHW-V2Nkd6Aafnp-320" edge="1" parent="1" source="nSp19AHW-V2Nkd6Aafnp-269" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nSp19AHW-V2Nkd6Aafnp-322" value="">
