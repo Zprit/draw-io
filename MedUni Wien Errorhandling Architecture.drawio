@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="Seite-1" id="-Uf0eLgD_hmh0jyYLXzI">
-    <mxGraphModel dx="4635" dy="1603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2731" dy="217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1163,7 +1163,7 @@
             <mxPoint x="-483.68" y="5988.26" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nSp19AHW-V2Nkd6Aafnp-385" connectable="0" parent="nSp19AHW-V2Nkd6Aafnp-384" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=72 Brand;fontSource=https%3A%2F%2Fbrand.sap.com%2Ftypography%23active-gallery__item--1;" value="5: Error via Mail" vertex="1">
+        <mxCell id="nSp19AHW-V2Nkd6Aafnp-385" connectable="0" parent="nSp19AHW-V2Nkd6Aafnp-384" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=72 Brand;fontSource=https%3A%2F%2Fbrand.sap.com%2Ftypography%23active-gallery__item--1;" value="5: Error via Mail possible for fallback" vertex="1">
           <mxGeometry relative="1" x="-0.1793" as="geometry">
             <mxPoint y="54" as="offset" />
           </mxGeometry>
