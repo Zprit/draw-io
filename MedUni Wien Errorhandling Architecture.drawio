@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="Seite-1" id="-Uf0eLgD_hmh0jyYLXzI">
-    <mxGraphModel dx="2676" dy="2131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3540" dy="2944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -524,7 +524,7 @@
             <mxPoint y="54" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nSp19AHW-V2Nkd6Aafnp-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=72 Brand;fontSource=https%3A%2F%2Fbrand.sap.com%2Ftypography%23active-gallery__item--1;fontSize=32;fontStyle=1" value="&lt;span style=&quot;text-align: center;&quot;&gt;2.1 SAP Event Mesh direct eventing with two message queues&lt;/span&gt;" vertex="1">
+        <mxCell id="nSp19AHW-V2Nkd6Aafnp-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=72 Brand;fontSource=https%3A%2F%2Fbrand.sap.com%2Ftypography%23active-gallery__item--1;fontSize=32;fontStyle=1" value="&lt;span style=&quot;text-align: center;&quot;&gt;2.2 SAP Event Mesh direct eventing with two message queues&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="650" x="-800" y="3070" as="geometry" />
         </mxCell>
         <mxCell id="nSp19AHW-V2Nkd6Aafnp-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;textShadow=1;fillColor=light-dark(#d1efff, #ededed);shadow=1;" value="" vertex="1">
