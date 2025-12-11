@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="Seite-1" id="-Uf0eLgD_hmh0jyYLXzI">
-    <mxGraphModel dx="2578" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2870" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1001,7 +1001,7 @@
             <mxPoint y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="***https://community.sap.com/t5/enterprise-resource-planning-blog-posts-by-sap/guidelines-for-enabling-outbound-api-journal-entry-change-confirmation/ba-p/13456276" link="https://community.sap.com/t5/enterprise-resource-planning-blog-posts-by-sap/guidelines-for-enabling-outbound-api-journal-entry-change-confirmation/ba-p/13456276" id="nSp19AHW-V2Nkd6Aafnp-267">
+        <UserObject label="***https://community.sap.com/t5/enterprise-resource-planning-blog-posts-by-sap/guidelines-for-enabling-outbound-api-journal-entry-change-confirmation/ba-p/13456276&#xa;https://community.sap.com/t5/enterprise-resource-planning-blog-posts-by-sap/guidelines-for-api-journal-entry-change-asynchronous/ba-p/13409513" link="https://community.sap.com/t5/enterprise-resource-planning-blog-posts-by-sap/guidelines-for-enabling-outbound-api-journal-entry-change-confirmation/ba-p/13456276" id="nSp19AHW-V2Nkd6Aafnp-267">
           <mxCell parent="1" style="text;whiteSpace=wrap;" vertex="1">
             <mxGeometry height="50" width="560" x="1860" y="3190" as="geometry" />
           </mxCell>
