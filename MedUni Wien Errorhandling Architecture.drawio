@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="Seite-1" id="-Uf0eLgD_hmh0jyYLXzI">
-    <mxGraphModel dx="2189" dy="113" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2713" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,19 +41,19 @@
           <mxGeometry height="80" width="650" x="-800" y="2080" as="geometry" />
         </mxCell>
         <mxCell id="8dVYZ6Xidw5gOzRrWmEN-170" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;fontFamily=72 Brand;fontSource=https%3A%2F%2Fbrand.sap.com%2Ftypography%23active-gallery__item--1;" value="" vertex="1">
-          <mxGeometry height="1160" width="1030" x="820" y="1780" as="geometry" />
+          <mxGeometry height="1400" width="1230" x="820" y="1780" as="geometry" />
         </mxCell>
         <mxCell id="8dVYZ6Xidw5gOzRrWmEN-171" parent="8dVYZ6Xidw5gOzRrWmEN-170" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" value="" vertex="1">
-          <mxGeometry height="145" width="1030" as="geometry" />
+          <mxGeometry height="145" width="1230" as="geometry" />
         </mxCell>
         <mxCell id="8dVYZ6Xidw5gOzRrWmEN-172" parent="8dVYZ6Xidw5gOzRrWmEN-171" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="Metric / Option" vertex="1">
-          <mxGeometry height="145" width="212" as="geometry">
-            <mxRectangle height="145" width="212" as="alternateBounds" />
+          <mxGeometry height="145" width="210" as="geometry">
+            <mxRectangle height="145" width="210" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8dVYZ6Xidw5gOzRrWmEN-173" parent="8dVYZ6Xidw5gOzRrWmEN-171" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontStyle=1;strokeWidth=2;fillColor=light-dark(#89d1ff, #1d293b);strokeColor=light-dark(#89d1ff, #5c79a3);" value="Option 1: CALM AIF monitoring" vertex="1">
-          <mxGeometry height="145" width="217" x="212" as="geometry">
-            <mxRectangle height="145" width="217" as="alternateBounds" />
+          <mxGeometry height="145" width="219" x="210" as="geometry">
+            <mxRectangle height="145" width="219" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8dVYZ6Xidw5gOzRrWmEN-174" parent="8dVYZ6Xidw5gOzRrWmEN-171" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;fillColor=light-dark(#89d1ff, #1d293b);strokeColor=light-dark(#89d1ff, #5c79a3);" value="Option 2: Event Mesh with direct event amount comparison&amp;nbsp;" vertex="1">
@@ -71,20 +71,25 @@
             <mxRectangle height="145" width="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="nSp19AHW-V2Nkd6Aafnp-258" parent="8dVYZ6Xidw5gOzRrWmEN-171" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;fillColor=light-dark(#89d1ff, #1d293b);strokeColor=light-dark(#89d1ff, #5c79a3);" value="&lt;b&gt;Option 5: Use Outbound API Journal Entry***&lt;/b&gt;" vertex="1">
+          <mxGeometry height="145" width="200" x="1030" as="geometry">
+            <mxRectangle height="145" width="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8dVYZ6Xidw5gOzRrWmEN-175" parent="8dVYZ6Xidw5gOzRrWmEN-170" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" value="" vertex="1">
-          <mxGeometry height="147" width="1030" y="145" as="geometry" />
+          <mxGeometry height="147" width="1230" y="145" as="geometry" />
         </mxCell>
         <mxCell id="8dVYZ6Xidw5gOzRrWmEN-176" parent="8dVYZ6Xidw5gOzRrWmEN-175" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=23;strokeWidth=2;fillColor=light-dark(#d1efff, #ededed);" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;How Correlate outbound request &amp;lt;-&amp;gt; backend result&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="147" width="212" as="geometry">
-            <mxRectangle height="147" width="212" as="alternateBounds" />
+          <mxGeometry height="147" width="210" as="geometry">
+            <mxRectangle height="147" width="210" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8dVYZ6Xidw5gOzRrWmEN-177" parent="8dVYZ6Xidw5gOzRrWmEN-175" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#333333;" value="Direct Monitoring in CALM AIF that sends error message when creation of Journal Entry went wrong" vertex="1">
-          <mxGeometry height="147" width="217" x="212" as="geometry">
-            <mxRectangle height="147" width="217" as="alternateBounds" />
+        <mxCell id="8dVYZ6Xidw5gOzRrWmEN-177" parent="8dVYZ6Xidw5gOzRrWmEN-175" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#333333;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Direct Monitoring in CALM AIF that sends error message when creation of Journal Entry went wrong&lt;/font&gt;" vertex="1">
+          <mxGeometry height="147" width="219" x="210" as="geometry">
+            <mxRectangle height="147" width="219" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8dVYZ6Xidw5gOzRrWmEN-178" parent="8dVYZ6Xidw5gOzRrWmEN-175" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="Create Event when Journal was created and compare amount of events to expected amount of events in Datastore" vertex="1">
+        <mxCell id="8dVYZ6Xidw5gOzRrWmEN-178" parent="8dVYZ6Xidw5gOzRrWmEN-175" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="Create Event when Journal was created and correlate via Correlation ID events in Datastore" vertex="1">
           <mxGeometry height="147" width="201" x="429" as="geometry">
             <mxRectangle height="147" width="201" as="alternateBounds" />
           </mxGeometry>
@@ -99,17 +104,22 @@
             <mxRectangle height="147" width="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8dVYZ6Xidw5gOzRrWmEN-179" parent="8dVYZ6Xidw5gOzRrWmEN-170" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" value="" vertex="1">
-          <mxGeometry height="144" width="1030" y="292" as="geometry" />
-        </mxCell>
-        <mxCell id="8dVYZ6Xidw5gOzRrWmEN-180" parent="8dVYZ6Xidw5gOzRrWmEN-179" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;fillColor=light-dark(#d1efff, #ededed);" value="Where are errors available" vertex="1">
-          <mxGeometry height="144" width="212" as="geometry">
-            <mxRectangle height="144" width="212" as="alternateBounds" />
+        <mxCell id="nSp19AHW-V2Nkd6Aafnp-259" parent="8dVYZ6Xidw5gOzRrWmEN-175" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="Directly via S/4HANA confirmation/callback interface to iFlow" vertex="1">
+          <mxGeometry height="147" width="200" x="1030" as="geometry">
+            <mxRectangle height="147" width="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8dVYZ6Xidw5gOzRrWmEN-181" parent="8dVYZ6Xidw5gOzRrWmEN-179" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#333333;" value="Direct Mail or ServiceNow Ticket or even maybe custom url with alert for event mesh even with error information what went wrong" vertex="1">
-          <mxGeometry height="144" width="217" x="212" as="geometry">
-            <mxRectangle height="144" width="217" as="alternateBounds" />
+        <mxCell id="8dVYZ6Xidw5gOzRrWmEN-179" parent="8dVYZ6Xidw5gOzRrWmEN-170" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" value="" vertex="1">
+          <mxGeometry height="144" width="1230" y="292" as="geometry" />
+        </mxCell>
+        <mxCell id="8dVYZ6Xidw5gOzRrWmEN-180" parent="8dVYZ6Xidw5gOzRrWmEN-179" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;fillColor=light-dark(#d1efff, #ededed);" value="Where are errors available" vertex="1">
+          <mxGeometry height="144" width="210" as="geometry">
+            <mxRectangle height="144" width="210" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8dVYZ6Xidw5gOzRrWmEN-181" parent="8dVYZ6Xidw5gOzRrWmEN-179" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#333333;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Direct Mail or ServiceNow Ticket or even maybe custom url with alert for event mesh even with error information what went wrong&lt;/font&gt;" vertex="1">
+          <mxGeometry height="144" width="219" x="210" as="geometry">
+            <mxRectangle height="144" width="219" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8dVYZ6Xidw5gOzRrWmEN-182" parent="8dVYZ6Xidw5gOzRrWmEN-179" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="CPI that an amount of journal entries was not able to be created =&amp;gt; Mail no direct information which and what went wrong" vertex="1">
@@ -127,17 +137,22 @@
             <mxRectangle height="144" width="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8dVYZ6Xidw5gOzRrWmEN-200" parent="8dVYZ6Xidw5gOzRrWmEN-170" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" value="" vertex="1">
-          <mxGeometry height="145" width="1030" y="436" as="geometry" />
-        </mxCell>
-        <mxCell id="8dVYZ6Xidw5gOzRrWmEN-201" parent="8dVYZ6Xidw5gOzRrWmEN-200" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;fillColor=light-dark(#d1efff, #ededed);" value="Latency" vertex="1">
-          <mxGeometry height="145" width="212" as="geometry">
-            <mxRectangle height="145" width="212" as="alternateBounds" />
+        <mxCell id="nSp19AHW-V2Nkd6Aafnp-260" parent="8dVYZ6Xidw5gOzRrWmEN-179" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="Via AIF callback in iFlow." vertex="1">
+          <mxGeometry height="144" width="200" x="1030" as="geometry">
+            <mxRectangle height="144" width="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8dVYZ6Xidw5gOzRrWmEN-202" parent="8dVYZ6Xidw5gOzRrWmEN-200" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#333333;" value="Low as errors are send instantly" vertex="1">
-          <mxGeometry height="145" width="217" x="212" as="geometry">
-            <mxRectangle height="145" width="217" as="alternateBounds" />
+        <mxCell id="8dVYZ6Xidw5gOzRrWmEN-200" parent="8dVYZ6Xidw5gOzRrWmEN-170" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" value="" vertex="1">
+          <mxGeometry height="145" width="1230" y="436" as="geometry" />
+        </mxCell>
+        <mxCell id="8dVYZ6Xidw5gOzRrWmEN-201" parent="8dVYZ6Xidw5gOzRrWmEN-200" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;fillColor=light-dark(#d1efff, #ededed);" value="Latency" vertex="1">
+          <mxGeometry height="145" width="210" as="geometry">
+            <mxRectangle height="145" width="210" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8dVYZ6Xidw5gOzRrWmEN-202" parent="8dVYZ6Xidw5gOzRrWmEN-200" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#333333;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Low as errors are send near.-real-time to minute&lt;/font&gt;" vertex="1">
+          <mxGeometry height="145" width="219" x="210" as="geometry">
+            <mxRectangle height="145" width="219" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8dVYZ6Xidw5gOzRrWmEN-203" parent="8dVYZ6Xidw5gOzRrWmEN-200" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="Medium / high latency as you get instant feedback when everything went ok but have to have a max. waiting time again if not" vertex="1">
@@ -155,25 +170,30 @@
             <mxRectangle height="145" width="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="nSp19AHW-V2Nkd6Aafnp-261" parent="8dVYZ6Xidw5gOzRrWmEN-200" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="Good with near real-time after AIF" vertex="1">
+          <mxGeometry height="145" width="200" x="1030" as="geometry">
+            <mxRectangle height="145" width="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8dVYZ6Xidw5gOzRrWmEN-234" parent="8dVYZ6Xidw5gOzRrWmEN-170" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1">
-          <mxGeometry height="143" width="1030" y="581" as="geometry" />
+          <mxGeometry height="143" width="1230" y="581" as="geometry" />
         </mxCell>
         <mxCell id="8dVYZ6Xidw5gOzRrWmEN-235" parent="8dVYZ6Xidw5gOzRrWmEN-234" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;fillColor=light-dark(#d1efff, #ededed);" value="Complexity" vertex="1">
-          <mxGeometry height="143" width="212" as="geometry">
-            <mxRectangle height="143" width="212" as="alternateBounds" />
+          <mxGeometry height="143" width="210" as="geometry">
+            <mxRectangle height="143" width="210" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8dVYZ6Xidw5gOzRrWmEN-236" parent="8dVYZ6Xidw5gOzRrWmEN-234" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#333333;" value="Medium as communication arrangement may be complicated to create and may not be working as intended, high when event mesh with CPI feedeback is wanted" vertex="1">
-          <mxGeometry height="143" width="217" x="212" as="geometry">
-            <mxRectangle height="143" width="217" as="alternateBounds" />
+        <mxCell id="8dVYZ6Xidw5gOzRrWmEN-236" parent="8dVYZ6Xidw5gOzRrWmEN-234" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#333333;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Medium as communication arrangement may be complicated to create and may not be working as intended, high when event mesh with CPI feedeback is wanted&lt;/font&gt;" vertex="1">
+          <mxGeometry height="143" width="219" x="210" as="geometry">
+            <mxRectangle height="143" width="219" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8dVYZ6Xidw5gOzRrWmEN-237" parent="8dVYZ6Xidw5gOzRrWmEN-234" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="Medium&lt;br&gt;-&amp;gt; Event routing and AMQP Adapter" vertex="1">
+        <mxCell id="8dVYZ6Xidw5gOzRrWmEN-237" parent="8dVYZ6Xidw5gOzRrWmEN-234" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;span style=&quot;font-family: &amp;quot;72&amp;quot;; font-size: medium; text-align: start;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Medium to High. Event enablement in S/4 + Integration Suite AMQP config + correlation store + dedup/retry logic.&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="143" width="201" x="429" as="geometry">
             <mxRectangle height="143" width="201" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nSp19AHW-V2Nkd6Aafnp-111" parent="8dVYZ6Xidw5gOzRrWmEN-234" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;High&lt;br&gt;-&amp;gt; only fallback when others dont work&lt;/span&gt;" vertex="1">
+        <mxCell id="nSp19AHW-V2Nkd6Aafnp-111" parent="8dVYZ6Xidw5gOzRrWmEN-234" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;span style=&quot;font-family: &amp;quot;72&amp;quot;; font-size: medium; text-align: start;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;High (two event streams, correlation, store, replay). Be ready for operational tuning.&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="143" width="200" x="630" as="geometry">
             <mxRectangle height="143" width="200" as="alternateBounds" />
           </mxGeometry>
@@ -183,25 +203,30 @@
             <mxRectangle height="143" width="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="nSp19AHW-V2Nkd6Aafnp-262" parent="8dVYZ6Xidw5gOzRrWmEN-234" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="Medium&amp;nbsp;&lt;br&gt;-&amp;gt; With a single and clear feedback channel" vertex="1">
+          <mxGeometry height="143" width="200" x="1030" as="geometry">
+            <mxRectangle height="143" width="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8dVYZ6Xidw5gOzRrWmEN-238" parent="8dVYZ6Xidw5gOzRrWmEN-170" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1">
-          <mxGeometry height="147" width="1030" y="724" as="geometry" />
+          <mxGeometry height="147" width="1230" y="724" as="geometry" />
         </mxCell>
         <mxCell id="8dVYZ6Xidw5gOzRrWmEN-239" parent="8dVYZ6Xidw5gOzRrWmEN-238" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;fillColor=light-dark(#d1efff, #ededed);" value="Reliability (no false positives / negatives)" vertex="1">
-          <mxGeometry height="147" width="212" as="geometry">
-            <mxRectangle height="147" width="212" as="alternateBounds" />
+          <mxGeometry height="147" width="210" as="geometry">
+            <mxRectangle height="147" width="210" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8dVYZ6Xidw5gOzRrWmEN-240" parent="8dVYZ6Xidw5gOzRrWmEN-238" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#333333;" value="High as errors are send directly" vertex="1">
-          <mxGeometry height="147" width="217" x="212" as="geometry">
-            <mxRectangle height="147" width="217" as="alternateBounds" />
+        <mxCell id="8dVYZ6Xidw5gOzRrWmEN-240" parent="8dVYZ6Xidw5gOzRrWmEN-238" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#333333;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;High as errors are send directly&lt;/font&gt;" vertex="1">
+          <mxGeometry height="147" width="219" x="210" as="geometry">
+            <mxRectangle height="147" width="219" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8dVYZ6Xidw5gOzRrWmEN-241" parent="8dVYZ6Xidw5gOzRrWmEN-238" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="Medium&lt;br&gt;- straighforward routing but maybe mixup" vertex="1">
+        <mxCell id="8dVYZ6Xidw5gOzRrWmEN-241" parent="8dVYZ6Xidw5gOzRrWmEN-238" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;span style=&quot;font-family: &amp;quot;72&amp;quot;; font-size: medium; text-align: start;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Medium if done with correlation IDs, durable queues, and idempotency; low if only counting.&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="147" width="201" x="429" as="geometry">
             <mxRectangle height="147" width="201" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nSp19AHW-V2Nkd6Aafnp-112" parent="8dVYZ6Xidw5gOzRrWmEN-238" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="Low&lt;br&gt;- two queues create high complexity and room for errors" vertex="1">
+        <mxCell id="nSp19AHW-V2Nkd6Aafnp-112" parent="8dVYZ6Xidw5gOzRrWmEN-238" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;span style=&quot;font-family: &amp;quot;72&amp;quot;; font-size: medium; text-align: start;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;With proper engineering, reliability is medium-to-high&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="147" width="200" x="630" as="geometry">
             <mxRectangle height="147" width="200" as="alternateBounds" />
           </mxGeometry>
@@ -211,17 +236,22 @@
             <mxRectangle height="147" width="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8dVYZ6Xidw5gOzRrWmEN-242" parent="8dVYZ6Xidw5gOzRrWmEN-170" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1">
-          <mxGeometry height="144" width="1030" y="871" as="geometry" />
-        </mxCell>
-        <mxCell id="8dVYZ6Xidw5gOzRrWmEN-243" parent="8dVYZ6Xidw5gOzRrWmEN-242" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;fillColor=light-dark(#d1efff, #ededed);" value="Changes required" vertex="1">
-          <mxGeometry height="144" width="212" as="geometry">
-            <mxRectangle height="144" width="212" as="alternateBounds" />
+        <mxCell id="nSp19AHW-V2Nkd6Aafnp-263" parent="8dVYZ6Xidw5gOzRrWmEN-238" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="Very High" vertex="1">
+          <mxGeometry height="147" width="200" x="1030" as="geometry">
+            <mxRectangle height="147" width="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8dVYZ6Xidw5gOzRrWmEN-244" parent="8dVYZ6Xidw5gOzRrWmEN-242" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#333333;" value="1. Embed webservice into AIF&lt;br&gt;2. setup CALM to monitor AIF&lt;br&gt;3. Create Communication Arrangement to throw alert*&lt;br&gt;(4. maybe add CPI backrouting via Event Mesh but just mail should suffice)" vertex="1">
-          <mxGeometry height="144" width="217" x="212" as="geometry">
-            <mxRectangle height="144" width="217" as="alternateBounds" />
+        <mxCell id="8dVYZ6Xidw5gOzRrWmEN-242" parent="8dVYZ6Xidw5gOzRrWmEN-170" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1">
+          <mxGeometry height="144" width="1230" y="871" as="geometry" />
+        </mxCell>
+        <mxCell id="8dVYZ6Xidw5gOzRrWmEN-243" parent="8dVYZ6Xidw5gOzRrWmEN-242" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;fillColor=light-dark(#d1efff, #ededed);" value="Changes required" vertex="1">
+          <mxGeometry height="144" width="210" as="geometry">
+            <mxRectangle height="144" width="210" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8dVYZ6Xidw5gOzRrWmEN-244" parent="8dVYZ6Xidw5gOzRrWmEN-242" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#333333;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;1. Embed webservice into AIF&lt;br&gt;2. setup CALM to monitor AIF&lt;br&gt;3. Create Communication Arrangement to throw alert*&lt;br&gt;(4. maybe add CPI backrouting via Event Mesh but just mail should suffice)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="144" width="219" x="210" as="geometry">
+            <mxRectangle height="144" width="219" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8dVYZ6Xidw5gOzRrWmEN-245" parent="8dVYZ6Xidw5gOzRrWmEN-242" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="Save ID in Datastore and Activate Event creation** in S/4, route event creation via Event mesh and fetch via CPI" vertex="1">
@@ -229,50 +259,93 @@
             <mxRectangle height="144" width="201" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nSp19AHW-V2Nkd6Aafnp-113" parent="8dVYZ6Xidw5gOzRrWmEN-242" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Create two queues, adjust first iFlow to create events in one and S/4 to create events in another and create another iFlow that compares&lt;/span&gt;" vertex="1">
+        <mxCell id="nSp19AHW-V2Nkd6Aafnp-113" parent="8dVYZ6Xidw5gOzRrWmEN-242" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;span style=&quot;font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Create two queues, adjust first iFlow to create events in one and S/4 to create events in another and create another iFlow that compares&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="144" width="200" x="630" as="geometry">
             <mxRectangle height="144" width="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nSp19AHW-V2Nkd6Aafnp-163" parent="8dVYZ6Xidw5gOzRrWmEN-242" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="1. Create Fiori App for AI Messaging&lt;br&gt;2. Integrate Fiori App into CPI&lt;br&gt;2.1 ODATA-Service&lt;br&gt;2.2 Or Event Callback" vertex="1">
+        <mxCell id="nSp19AHW-V2Nkd6Aafnp-163" parent="8dVYZ6Xidw5gOzRrWmEN-242" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="1. Create Fiori App for AIF Messaging Dashboard?&lt;br&gt;2. Integrate Fiori App into CPI&lt;br&gt;2.1 ODATA-Service&lt;br&gt;2.2 Or Event Callback" vertex="1">
           <mxGeometry height="144" width="200" x="830" as="geometry">
             <mxRectangle height="144" width="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="nSp19AHW-V2Nkd6Aafnp-264" parent="8dVYZ6Xidw5gOzRrWmEN-242" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="Create Outbound&amp;nbsp;" vertex="1">
+          <mxGeometry height="144" width="200" x="1030" as="geometry">
+            <mxRectangle height="144" width="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8dVYZ6Xidw5gOzRrWmEN-246" parent="8dVYZ6Xidw5gOzRrWmEN-170" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1">
-          <mxGeometry height="145" width="1030" y="1015" as="geometry" />
+          <mxGeometry height="145" width="1230" y="1015" as="geometry" />
         </mxCell>
         <mxCell id="8dVYZ6Xidw5gOzRrWmEN-247" parent="8dVYZ6Xidw5gOzRrWmEN-246" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;fillColor=light-dark(#d1efff, #ededed);" value="Effort evaluation" vertex="1">
-          <mxGeometry height="145" width="212" as="geometry">
-            <mxRectangle height="145" width="212" as="alternateBounds" />
+          <mxGeometry height="145" width="210" as="geometry">
+            <mxRectangle height="145" width="210" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8dVYZ6Xidw5gOzRrWmEN-248" parent="8dVYZ6Xidw5gOzRrWmEN-246" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#333333;" value="5-10 Days" vertex="1">
-          <mxGeometry height="145" width="217" x="212" as="geometry">
-            <mxRectangle height="145" width="217" as="alternateBounds" />
+        <mxCell id="8dVYZ6Xidw5gOzRrWmEN-248" parent="8dVYZ6Xidw5gOzRrWmEN-246" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#333333;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Alerting only 2-5 Days&lt;/font&gt;" vertex="1">
+          <mxGeometry height="145" width="219" x="210" as="geometry">
+            <mxRectangle height="145" width="219" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8dVYZ6Xidw5gOzRrWmEN-249" parent="8dVYZ6Xidw5gOzRrWmEN-246" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="5-10 Days" vertex="1">
+        <mxCell id="8dVYZ6Xidw5gOzRrWmEN-249" parent="8dVYZ6Xidw5gOzRrWmEN-246" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="8-15 Days" vertex="1">
           <mxGeometry height="145" width="201" x="429" as="geometry">
             <mxRectangle height="145" width="201" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nSp19AHW-V2Nkd6Aafnp-114" parent="8dVYZ6Xidw5gOzRrWmEN-246" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="7-12 Days" vertex="1">
+        <mxCell id="nSp19AHW-V2Nkd6Aafnp-114" parent="8dVYZ6Xidw5gOzRrWmEN-246" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="10-20 Days" vertex="1">
           <mxGeometry height="145" width="200" x="630" as="geometry">
             <mxRectangle height="145" width="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nSp19AHW-V2Nkd6Aafnp-164" parent="8dVYZ6Xidw5gOzRrWmEN-246" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="12-15 Days" vertex="1">
+        <mxCell id="nSp19AHW-V2Nkd6Aafnp-164" parent="8dVYZ6Xidw5gOzRrWmEN-246" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="15-25 Days" vertex="1">
           <mxGeometry height="145" width="200" x="830" as="geometry">
             <mxRectangle height="145" width="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="nSp19AHW-V2Nkd6Aafnp-265" parent="8dVYZ6Xidw5gOzRrWmEN-246" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="5-10 days when no workarounds" vertex="1">
+          <mxGeometry height="145" width="200" x="1030" as="geometry">
+            <mxRectangle height="145" width="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nSp19AHW-V2Nkd6Aafnp-252" parent="8dVYZ6Xidw5gOzRrWmEN-170" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1">
+          <mxGeometry height="240" width="1230" y="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="nSp19AHW-V2Nkd6Aafnp-253" parent="nSp19AHW-V2Nkd6Aafnp-252" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=2;fillColor=light-dark(#d1efff, #ededed);" value="Problems:" vertex="1">
+          <mxGeometry height="240" width="210" as="geometry">
+            <mxRectangle height="240" width="210" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nSp19AHW-V2Nkd6Aafnp-254" parent="nSp19AHW-V2Nkd6Aafnp-252" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#333333;align=center;" value="&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;font&gt;Embed webservice&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;font&gt;i&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); background-color: transparent;&quot;&gt;nto AIF feasible in Public cloud?&lt;br&gt;Feedback through url to CPI just an idea, probably too unreliable.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="240" width="219" x="210" as="geometry">
+            <mxRectangle height="240" width="219" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nSp19AHW-V2Nkd6Aafnp-255" parent="nSp19AHW-V2Nkd6Aafnp-252" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="No error reason and correlation ID and persistent correlation store brittle &lt;span&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span&gt;(&lt;span style=&quot;font-family: &amp;quot;72&amp;quot;; font-size: medium; text-align: start;&quot;&gt;Use Correlation IDs per CSV line and a correlation store in CPI or S/4 (e.g., a CBO) to mark success per ID.)&lt;/span&gt;&lt;/span&gt;.&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;br&gt;Needs to be evaluated if event is triggered with journal entry, not all trigger event." vertex="1">
+          <mxGeometry height="240" width="201" x="429" as="geometry">
+            <mxRectangle height="240" width="201" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nSp19AHW-V2Nkd6Aafnp-256" parent="nSp19AHW-V2Nkd6Aafnp-252" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="No error reason and correlation ID and persistent correlation store brittle&amp;nbsp;&amp;nbsp;&lt;span&gt;&lt;span&gt;(&lt;span style=&quot;font-family: &amp;quot;72&amp;quot;; font-size: medium; text-align: start;&quot;&gt;Use Correlation IDs per CSV line and a correlation store in CPI or S/4 (e.g., a CBO) to mark success per ID.)&lt;/span&gt;&lt;/span&gt;.&lt;/span&gt;.&lt;br&gt;Needs to be evaluated if event is triggered with journal entry, not all trigger event." vertex="1">
+          <mxGeometry height="240" width="200" x="630" as="geometry">
+            <mxRectangle height="240" width="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nSp19AHW-V2Nkd6Aafnp-257" parent="nSp19AHW-V2Nkd6Aafnp-252" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;span style=&quot;font-family: &amp;quot;72&amp;quot;; font-size: medium; text-align: left;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Maybe in S/4HANA Public Cloud you cannot programmatically read AIF message content via public APIs, and ABAP Cloud prevents direct access to AIF tables. A custom Fiori app only makes sense if you maintain your own error persistence.&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="240" width="200" x="830" as="geometry">
+            <mxRectangle height="240" width="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nSp19AHW-V2Nkd6Aafnp-266" parent="nSp19AHW-V2Nkd6Aafnp-252" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="Difference to Option 1?&lt;br&gt;Do the changes include errors?&lt;br&gt;How does this asynchronous feedback work in the iFlow?&lt;br&gt;Is the option even available in S/4HANA?" vertex="1">
+          <mxGeometry height="240" width="200" x="1030" as="geometry">
+            <mxRectangle height="240" width="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8dVYZ6Xidw5gOzRrWmEN-274" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="**https://api.sap.com/event/CE_JOURNALENTRYEVENTS/overview" vertex="1">
-          <mxGeometry height="30" width="430" x="820" y="3010" as="geometry" />
+          <mxGeometry height="30" width="430" x="820" y="3240" as="geometry" />
         </mxCell>
         <UserObject label="*https://support.sap.com/en/alm/sap-cloud-alm/operations/expert-portal/integration-monitoring/calm-s4cloud.html" link="https://support.sap.com/en/alm/sap-cloud-alm/operations/expert-portal/integration-monitoring/calm-s4cloud.html" id="8dVYZ6Xidw5gOzRrWmEN-275">
           <mxCell parent="1" style="text;whiteSpace=wrap;" vertex="1">
-            <mxGeometry height="50" width="560" x="820" y="2960" as="geometry" />
+            <mxGeometry height="50" width="560" x="820" y="3190" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="8dVYZ6Xidw5gOzRrWmEN-301" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;textShadow=1;fillColor=light-dark(#d1efff, #ededed);shadow=1;" value="" vertex="1">
@@ -528,7 +601,7 @@
             <mxPoint x="-280" y="2751.4024999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nSp19AHW-V2Nkd6Aafnp-10" connectable="0" parent="nSp19AHW-V2Nkd6Aafnp-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=72 Brand;fontSource=https%3A%2F%2Fbrand.sap.com%2Ftypography%23active-gallery__item--1;fontSize=13;" value="4. Compare amount &lt;br&gt;of events&amp;nbsp;&lt;div&gt;to expected&lt;/div&gt;" vertex="1">
+        <mxCell id="nSp19AHW-V2Nkd6Aafnp-10" connectable="0" parent="nSp19AHW-V2Nkd6Aafnp-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=72 Brand;fontSource=https%3A%2F%2Fbrand.sap.com%2Ftypography%23active-gallery__item--1;fontSize=13;" value="4. Compare amount &lt;br&gt;of events&amp;nbsp;&lt;div&gt;via Correlation ID&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.0424" as="geometry">
             <mxPoint y="3" as="offset" />
           </mxGeometry>
@@ -714,11 +787,11 @@
         </mxCell>
         <UserObject label="https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/3ab6e6fc510f4840a5508e126ef01e22/c3833c31e7724a79b23e4273290f3e2e.html?locale=en-US" link="https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/3ab6e6fc510f4840a5508e126ef01e22/c3833c31e7724a79b23e4273290f3e2e.html?locale=en-US" id="nSp19AHW-V2Nkd6Aafnp-123">
           <mxCell parent="1" style="text;whiteSpace=wrap;" vertex="1">
-            <mxGeometry height="70" width="560" x="1200" y="3000" as="geometry" />
+            <mxGeometry height="70" width="560" x="1230" y="3220" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="nSp19AHW-V2Nkd6Aafnp-155" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=18;" value="Follow up questions:&lt;div&gt;1. How effort analysis? I just guessed and i think it maybe should be higher&lt;br&gt;2. How to validate? No access to S/4HANA Test landscape nor iFlow&lt;/div&gt;&lt;div&gt;3. Really no idea what i am looking at in the excel. Explanation would be nice for mapping&lt;br&gt;3.1 what do you mean with which fields can be used vor correlation ID or CSV strucutre to understand? Is this information in the excel?&lt;br&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="200" width="580" x="830" y="3320" as="geometry" />
+        <mxCell id="nSp19AHW-V2Nkd6Aafnp-155" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=18;" value="Follow up questions:&lt;div&gt;1. How effort analysis? I just guessed and i think it maybe should be higher&lt;br&gt;2. How to validate? No access to S/4HANA Test landscape nor iFlow&lt;/div&gt;&lt;div&gt;3. Really no idea what i am looking at in the excel. Explanation would be nice for mapping&lt;br&gt;3.1 what do you mean with which fields can be used vor correlation ID or CSV strucutre to understand? Is this information in the excel?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="580" x="827" y="3560" as="geometry" />
         </mxCell>
         <mxCell id="nSp19AHW-V2Nkd6Aafnp-156" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=light-dark(#7859ff, #ededed);" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px; color: rgb(255, 255, 255);&quot; face=&quot;72 Brand&quot; data-font-src=&quot;https://brand.sap.com/typography#active-gallery__item--1&quot;&gt;Recommended&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="50" width="219" x="1031" y="1730" as="geometry" />
@@ -928,6 +1001,11 @@
             <mxPoint y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
+        <UserObject label="***https://community.sap.com/t5/enterprise-resource-planning-blog-posts-by-sap/guidelines-for-enabling-outbound-api-journal-entry-change-confirmation/ba-p/13456276" link="https://community.sap.com/t5/enterprise-resource-planning-blog-posts-by-sap/guidelines-for-enabling-outbound-api-journal-entry-change-confirmation/ba-p/13456276" id="nSp19AHW-V2Nkd6Aafnp-267">
+          <mxCell parent="1" style="text;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="50" width="560" x="1980" y="3290" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
