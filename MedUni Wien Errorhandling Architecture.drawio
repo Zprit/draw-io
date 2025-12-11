@@ -1092,18 +1092,18 @@
         <mxCell id="nSp19AHW-V2Nkd6Aafnp-305" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=72 Brand;fontSource=https%3A%2F%2Fbrand.sap.com%2Ftypography%23active-gallery__item--1;fontSize=18;fontColor=light-dark(#3b507f, #ededed);" value="iFlow" vertex="1">
           <mxGeometry height="28.87" width="85.73" x="-179.99999999999997" y="5769" as="geometry" />
         </mxCell>
-        <mxCell id="nSp19AHW-V2Nkd6Aafnp-309" edge="1" parent="1" source="nSp19AHW-V2Nkd6Aafnp-302" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="nSp19AHW-V2Nkd6Aafnp-269" value="">
+        <mxCell id="nSp19AHW-V2Nkd6Aafnp-309" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="359" y="5736" />
+              <mxPoint x="365.68" y="5736" />
             </Array>
-            <mxPoint x="-64.98999999999978" y="5756.494999999999" as="sourcePoint" />
-            <mxPoint x="442.14" y="5691.38" as="targetPoint" />
+            <mxPoint x="-100.55000000000001" y="5735.865" as="sourcePoint" />
+            <mxPoint x="365.64000000000004" y="5609.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nSp19AHW-V2Nkd6Aafnp-310" connectable="0" parent="nSp19AHW-V2Nkd6Aafnp-309" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=72 Brand;fontSource=https%3A%2F%2Fbrand.sap.com%2Ftypography%23active-gallery__item--1;" value="1. Create Journal Entry" vertex="1">
           <mxGeometry relative="1" x="-0.1405" as="geometry">
-            <mxPoint x="4" y="1" as="offset" />
+            <mxPoint x="9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nSp19AHW-V2Nkd6Aafnp-313" parent="1" style="shape=message;html=1;html=1;outlineConnect=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" value="" vertex="1">
