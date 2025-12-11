@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="Seite-1" id="-Uf0eLgD_hmh0jyYLXzI">
-    <mxGraphModel dx="6719" dy="1139" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5036" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -838,7 +838,7 @@
         </mxCell>
         <UserObject label="https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/3ab6e6fc510f4840a5508e126ef01e22/c3833c31e7724a79b23e4273290f3e2e.html?locale=en-US" link="https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/3ab6e6fc510f4840a5508e126ef01e22/c3833c31e7724a79b23e4273290f3e2e.html?locale=en-US" id="nSp19AHW-V2Nkd6Aafnp-123">
           <mxCell parent="1" style="text;whiteSpace=wrap;" vertex="1">
-            <mxGeometry height="70" width="560" x="1260" y="3118.25" as="geometry" />
+            <mxGeometry height="70" width="560" x="860" y="3160" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="nSp19AHW-V2Nkd6Aafnp-155" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=18;" value="Follow up questions:&lt;div&gt;1. How effort analysis? I just guessed and i think it maybe should be higher&lt;br&gt;2. How to validate? No access to S/4HANA Test landscape nor iFlow&lt;/div&gt;&lt;div&gt;3. Really no idea what i am looking at in the excel. Explanation would be nice for mapping&lt;br&gt;3.1 what do you mean with which fields can be used vor correlation ID or CSV strucutre to understand? Is this information in the excel?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
