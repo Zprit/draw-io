@@ -1,9 +1,39 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36">
   <diagram name="Seite-1" id="FXjyA87hnd-UI80Y2uqR">
-    <mxGraphModel dx="953" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RU7X57o48BPXbHDY4GZj-7" edge="1" parent="1" source="RU7X57o48BPXbHDY4GZj-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RU7X57o48BPXbHDY4GZj-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RU7X57o48BPXbHDY4GZj-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Node" vertex="1">
+          <mxGeometry height="60" width="120" x="140" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="RU7X57o48BPXbHDY4GZj-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Node" vertex="1">
+          <mxGeometry height="60" width="120" x="500" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="RU7X57o48BPXbHDY4GZj-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Transport Content" vertex="1">
+          <mxGeometry height="30" width="190" x="288.5" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="RU7X57o48BPXbHDY4GZj-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="System A" vertex="1">
+          <mxGeometry height="30" width="60" x="160" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="RU7X57o48BPXbHDY4GZj-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="System B" vertex="1">
+          <mxGeometry height="30" width="60" x="530" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="RU7X57o48BPXbHDY4GZj-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="edge" vertex="1">
+          <mxGeometry height="30" width="60" x="353.5" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="RU7X57o48BPXbHDY4GZj-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="TST" vertex="1">
+          <mxGeometry height="30" width="60" x="160" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="RU7X57o48BPXbHDY4GZj-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PRD" vertex="1">
+          <mxGeometry height="30" width="60" x="530" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="RU7X57o48BPXbHDY4GZj-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="TST to PRD" vertex="1">
+          <mxGeometry height="30" width="86" x="340" y="270" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
