@@ -35,7 +35,7 @@
           <mxGeometry height="30" width="86" x="340" y="270" as="geometry" />
         </mxCell>
         <mxCell id="RU7X57o48BPXbHDY4GZj-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;Dev = Main&lt;br&gt;Debug = Debug&lt;br&gt;One System = One Branch&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="210" x="40" y="670" as="geometry" />
+          <mxGeometry height="50" width="210" x="40" y="600" as="geometry" />
         </mxCell>
         <mxCell id="RU7X57o48BPXbHDY4GZj-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Download" vertex="1">
           <mxGeometry height="30" width="60" x="366" y="490" as="geometry" />
