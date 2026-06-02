@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0">
   <diagram name="Page-1" id="0HvcVykFjzqzVWADaqNH">
-    <mxGraphModel dx="949" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1177" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -160,6 +160,9 @@
             </Array>
             <mxPoint x="35.02857142857101" y="190" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SMACki5vL2ju3rVih5mO-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Map to Oracle XML. Kann man LookUp for Oracle DB machen?&lt;div&gt;VGM_Vermas müssen wir gemapped bekommen&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="390" x="240" y="620" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
