@@ -625,7 +625,7 @@
           <mxGeometry height="40" width="200" x="720" y="1560" as="geometry" />
         </mxCell>
         <mxCell id="Wf1Qjkp753x_wKNV4mHZ-653" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Wie kann man machen, dass nur Release Manager milestones erstellen kann?" vertex="1">
-          <mxGeometry height="30" width="60" x="1140" y="1420" as="geometry" />
+          <mxGeometry height="70" width="130" x="1140" y="1380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
