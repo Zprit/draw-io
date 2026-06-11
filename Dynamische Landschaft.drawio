@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Seite-1" id="0IgjpfjalRgGUtGg7f0o">
-    <mxGraphModel dx="1744" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1443" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -349,7 +349,7 @@
         </mxCell>
         <mxCell id="Wf1Qjkp753x_wKNV4mHZ-641" connectable="0" parent="Wf1Qjkp753x_wKNV4mHZ-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="erstellen" vertex="1">
           <mxGeometry relative="1" x="0.1156" as="geometry">
-            <mxPoint x="5" as="offset" />
+            <mxPoint x="5" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Wf1Qjkp753x_wKNV4mHZ-30" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="Pull Request" vertex="1">
@@ -379,8 +379,14 @@
             <mxPoint x="-1" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wf1Qjkp753x_wKNV4mHZ-53" edge="1" parent="1" source="QHfE4yItxV0snaOPSp4B-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;dashed=1;jumpStyle=arc;" target="QHfE4yItxV0snaOPSp4B-32">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Wf1Qjkp753x_wKNV4mHZ-53" edge="1" parent="1" source="QHfE4yItxV0snaOPSp4B-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;dashed=1;jumpStyle=arc;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="191" y="410" />
+              <mxPoint x="1240" y="410" />
+            </Array>
+            <mxPoint x="1240" y="443" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Wf1Qjkp753x_wKNV4mHZ-56" connectable="0" parent="Wf1Qjkp753x_wKNV4mHZ-53" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Trigger für ein Issue" vertex="1">
           <mxGeometry relative="1" x="-0.4162" y="2" as="geometry">
