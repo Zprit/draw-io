@@ -572,6 +572,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Wf1Qjkp753x_wKNV4mHZ-639" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1d2d3e;fontFamily=Helvetica;" value="&lt;font face=&quot;arial&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;4-Tier Landscape&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="712" y="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
