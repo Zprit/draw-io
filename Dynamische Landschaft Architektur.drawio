@@ -1,9 +1,21 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Seite-1" id="J5jifLrKJ0HEp-VX0ear">
-    <mxGraphModel>
+    <mxGraphModel dx="1212" dy="1189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WpdMhoCunzJzcdZGzUAj-1" parent="1" style="html=1;dashed=1;whiteSpace=wrap;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="670" width="350" x="30" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="WpdMhoCunzJzcdZGzUAj-2" parent="1" style="html=1;dashed=1;whiteSpace=wrap;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="670" width="365" x="425" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="WpdMhoCunzJzcdZGzUAj-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Actions" vertex="1">
+          <mxGeometry height="30" width="60" x="175" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="WpdMhoCunzJzcdZGzUAj-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Intsuite" vertex="1">
+          <mxGeometry height="30" width="60" x="577.5" y="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
