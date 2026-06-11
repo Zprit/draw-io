@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Seite-1" id="0IgjpfjalRgGUtGg7f0o">
-    <mxGraphModel dx="1744" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1443" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -408,7 +408,7 @@
         </mxCell>
         <mxCell id="Wf1Qjkp753x_wKNV4mHZ-96" connectable="0" parent="Wf1Qjkp753x_wKNV4mHZ-95" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Deploy on push" vertex="1">
           <mxGeometry relative="1" x="0.1464" y="3" as="geometry">
-            <mxPoint x="58" y="-3" as="offset" />
+            <mxPoint x="44" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Wf1Qjkp753x_wKNV4mHZ-119" edge="1" parent="1" source="Wf1Qjkp753x_wKNV4mHZ-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Wf1Qjkp753x_wKNV4mHZ-1">
