@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Seite-1" id="0IgjpfjalRgGUtGg7f0o">
-    <mxGraphModel dx="2462" dy="1399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1993" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -227,10 +227,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QHfE4yItxV0snaOPSp4B-89" parent="1" style="shape=actor;whiteSpace=wrap;html=1;textOpacity=60;" value="" vertex="1">
-          <mxGeometry height="50" width="37" x="1460" y="483" as="geometry" />
+          <mxGeometry height="50" width="37" x="1462.75" y="483" as="geometry" />
         </mxCell>
         <mxCell id="QHfE4yItxV0snaOPSp4B-91" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Mitarbeiter" vertex="1">
-          <mxGeometry height="30" width="60" x="1448.5" y="533" as="geometry" />
+          <mxGeometry height="30" width="60" x="1451.25" y="533" as="geometry" />
         </mxCell>
         <mxCell id="QHfE4yItxV0snaOPSp4B-94" edge="1" parent="1" source="QHfE4yItxV0snaOPSp4B-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.002;exitY=0.807;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" target="QHfE4yItxV0snaOPSp4B-33">
           <mxGeometry relative="1" as="geometry">
@@ -288,16 +288,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QHfE4yItxV0snaOPSp4B-142" parent="1" style="shape=actor;whiteSpace=wrap;html=1;textOpacity=60;" value="" vertex="1">
-          <mxGeometry height="50" width="37" x="1460" y="748" as="geometry" />
+          <mxGeometry height="50" width="37" x="1465.5" y="748" as="geometry" />
         </mxCell>
         <mxCell id="QHfE4yItxV0snaOPSp4B-143" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Release Manager" vertex="1">
-          <mxGeometry height="30" width="97" x="1430" y="798" as="geometry" />
+          <mxGeometry height="30" width="97" x="1435.5" y="798" as="geometry" />
         </mxCell>
         <mxCell id="QHfE4yItxV0snaOPSp4B-147" parent="1" style="shape=actor;whiteSpace=wrap;html=1;textOpacity=60;" value="" vertex="1">
-          <mxGeometry height="50" width="37" x="1460" y="923.5" as="geometry" />
+          <mxGeometry height="50" width="37" x="1465.5" y="923.5" as="geometry" />
         </mxCell>
         <mxCell id="QHfE4yItxV0snaOPSp4B-148" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Release Manager" vertex="1">
-          <mxGeometry height="30" width="116" x="1420.5" y="973.5" as="geometry" />
+          <mxGeometry height="30" width="116" x="1426" y="973.5" as="geometry" />
         </mxCell>
         <mxCell id="QHfE4yItxV0snaOPSp4B-149" edge="1" parent="1" source="QHfE4yItxV0snaOPSp4B-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="QHfE4yItxV0snaOPSp4B-39">
           <mxGeometry relative="1" as="geometry">
@@ -533,10 +533,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wf1Qjkp753x_wKNV4mHZ-123" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px; background-color: rgb(251, 251, 251);&quot;&gt;&lt;font face=&quot;arial&quot;&gt;&lt;b&gt;Release vX.X&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="78.75" width="102.5" x="1430" y="1066.5" as="geometry" />
+          <mxGeometry height="78.75" width="102.5" x="1434.12" y="1067.13" as="geometry" />
         </mxCell>
         <mxCell id="Wf1Qjkp753x_wKNV4mHZ-121" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px; background-color: rgb(251, 251, 251);&quot;&gt;&lt;font face=&quot;arial&quot;&gt;&lt;b&gt;Release vX.X&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="78.75" width="102.5" x="1427.25" y="1061.25" as="geometry" />
+          <mxGeometry height="78.75" width="102.5" x="1431.37" y="1061.88" as="geometry" />
         </mxCell>
         <mxCell id="Wf1Qjkp753x_wKNV4mHZ-124" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="&lt;b style=&quot;text-align: left; border-color: rgb(218, 218, 218); font-family: arial; background-color: rgb(251, 251, 251); font-size: 14px;&quot;&gt;&lt;font&gt;main&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="77.5" width="60" x="850" y="180" as="geometry" />
@@ -608,6 +608,18 @@
         </mxCell>
         <mxCell id="Wf1Qjkp753x_wKNV4mHZ-647" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="iFlow &quot;soll entwickelt werden&quot;" vertex="1">
           <mxGeometry height="30" width="160" x="1580" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Wf1Qjkp753x_wKNV4mHZ-648" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="Branches sind immer erstellt." vertex="1">
+          <mxGeometry height="40" width="200" x="720" y="1280" as="geometry" />
+        </mxCell>
+        <mxCell id="Wf1Qjkp753x_wKNV4mHZ-649" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="Wenn andere Landschaften nicht vorhanden sind, dann wird einfach nichts dort hin gepushed." vertex="1">
+          <mxGeometry height="50" width="200" x="720" y="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="Wf1Qjkp753x_wKNV4mHZ-650" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&quot;Gerüst&quot; und Logik besteht:&lt;br&gt;Issue &amp;gt; Feature Branch &amp;gt; Milestone &amp;gt; Release" vertex="1">
+          <mxGeometry height="50" width="200" x="720" y="1370" as="geometry" />
+        </mxCell>
+        <mxCell id="Wf1Qjkp753x_wKNV4mHZ-651" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="Mehrere PRD Instanzen können angeschlossen sein.&lt;br&gt;Alles wird abhängig des Git Environments deployed.&lt;div&gt;Zu welchem PRD was geschickt wird kann in Config oder mit Labeln festgelegt werden.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="200" x="720" y="1430" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
