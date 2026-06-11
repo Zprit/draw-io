@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Seite-1" id="0IgjpfjalRgGUtGg7f0o">
-    <mxGraphModel dx="1443" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1744" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,7 +58,7 @@
           <mxGeometry height="40" width="123.75" x="1271.63" y="423" as="geometry" />
         </mxCell>
         <mxCell id="QHfE4yItxV0snaOPSp4B-32" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="Github Issue" vertex="1">
-          <mxGeometry height="40" width="89" x="1119.31" y="423" as="geometry" />
+          <mxGeometry height="40" width="89" x="1095" y="423" as="geometry" />
         </mxCell>
         <mxCell id="QHfE4yItxV0snaOPSp4B-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#EBF8FF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;" value="Feature Branch erstellen" vertex="1">
           <mxGeometry height="40" width="120" x="1273.5" y="503" as="geometry" />
@@ -356,7 +356,7 @@
           <mxGeometry height="40" width="74.5" x="892.75" y="793" as="geometry" />
         </mxCell>
         <mxCell id="Wf1Qjkp753x_wKNV4mHZ-39" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="Pull Request" vertex="1">
-          <mxGeometry height="46.5" width="74.56" x="1000" y="927" as="geometry" />
+          <mxGeometry height="43.5" width="74.56" x="1000" y="928.5" as="geometry" />
         </mxCell>
         <mxCell id="Wf1Qjkp753x_wKNV4mHZ-46" edge="1" parent="1" source="QHfE4yItxV0snaOPSp4B-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="Wf1Qjkp753x_wKNV4mHZ-39">
           <mxGeometry relative="1" as="geometry">
@@ -494,7 +494,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="930" y="483" />
-              <mxPoint x="1147" y="483" />
+              <mxPoint x="1123" y="483" />
+              <mxPoint x="1123" y="463" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -563,7 +564,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1200" y="485" />
-              <mxPoint x="1163" y="485" />
+              <mxPoint x="1140" y="485" />
+              <mxPoint x="1140" y="458" />
             </Array>
             <mxPoint x="1200" y="800" as="sourcePoint" />
             <mxPoint x="1163.56" y="463.00000000000006" as="targetPoint" />
