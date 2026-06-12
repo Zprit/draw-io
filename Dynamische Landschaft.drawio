@@ -1253,8 +1253,8 @@
         <mxCell id="41AoAW74EtG28uFXpzi--150" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;" value="alleine rausfinden wo hin und von wo. Feat und hotfix" vertex="1">
           <mxGeometry height="30" width="170" x="1623" y="2960" as="geometry" />
         </mxCell>
-        <mxCell id="41AoAW74EtG28uFXpzi--151" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;" value="Trigger sind customizable wo was hingeht. Der zoeht sich das aus einer Landschaftsdatei" vertex="1">
-          <mxGeometry height="48.5" width="170" x="1623" y="3188" as="geometry" />
+        <mxCell id="41AoAW74EtG28uFXpzi--151" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;" value="Trigger sind customizable wo was hingeht. Der zoeht sich das aus Git Umgebungs Config." vertex="1">
+          <mxGeometry height="72" width="167" x="1623" y="3188" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
