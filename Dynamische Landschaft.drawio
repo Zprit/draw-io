@@ -1250,6 +1250,12 @@
         <mxCell id="41AoAW74EtG28uFXpzi--148" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Wie kann man machen, dass nur Release Manager milestones erstellen kann?" vertex="1">
           <mxGeometry height="70" width="130" x="1168" y="3740" as="geometry" />
         </mxCell>
+        <mxCell id="41AoAW74EtG28uFXpzi--150" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;" value="alleine rausfinden wo hin und von wo. Feat und hotfix" vertex="1">
+          <mxGeometry height="30" width="170" x="1623" y="2960" as="geometry" />
+        </mxCell>
+        <mxCell id="41AoAW74EtG28uFXpzi--151" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;" value="Trigger sind customizable wo was hingeht." vertex="1">
+          <mxGeometry height="30" width="170" x="1630" y="3171.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
