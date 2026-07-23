@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Seite-1" id="0IgjpfjalRgGUtGg7f0o">
-    <mxGraphModel dx="990" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1260" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1255,6 +1255,78 @@
         </mxCell>
         <mxCell id="41AoAW74EtG28uFXpzi--151" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;" value="Trigger sind customizable wo was hingeht. Der zoeht sich das aus Git Umgebungs Config." vertex="1">
           <mxGeometry height="82" width="197" x="1603" y="3158" as="geometry" />
+        </mxCell>
+        <mxCell id="5NX7uhQruxXt2dHjfyV9-9" edge="1" parent="1" source="5NX7uhQruxXt2dHjfyV9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5NX7uhQruxXt2dHjfyV9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5NX7uhQruxXt2dHjfyV9-10" connectable="0" parent="5NX7uhQruxXt2dHjfyV9-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Milestone" vertex="1">
+          <mxGeometry relative="1" x="-0.211" y="-1" as="geometry">
+            <mxPoint x="20" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5NX7uhQruxXt2dHjfyV9-13" edge="1" parent="1" source="5NX7uhQruxXt2dHjfyV9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5NX7uhQruxXt2dHjfyV9-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5NX7uhQruxXt2dHjfyV9-1" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="&lt;b style=&quot;text-align: left; border-color: rgb(218, 218, 218); font-family: arial; background-color: rgb(251, 251, 251); font-size: 14px;&quot;&gt;&lt;font&gt;env/TST branch&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="78.5" width="71.62" x="2160" y="871.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5NX7uhQruxXt2dHjfyV9-14" edge="1" parent="1" source="5NX7uhQruxXt2dHjfyV9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5NX7uhQruxXt2dHjfyV9-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5NX7uhQruxXt2dHjfyV9-2" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="&lt;b style=&quot;text-align: left; border-color: rgb(218, 218, 218); font-family: arial; background-color: rgb(251, 251, 251); font-size: 14px;&quot;&gt;&lt;font&gt;env/PRD branch&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="78.5" width="71.62" x="2430" y="871.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5NX7uhQruxXt2dHjfyV9-3" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="&lt;b style=&quot;text-align: left; border-color: rgb(218, 218, 218); font-family: arial; background-color: rgb(251, 251, 251); font-size: 14px;&quot;&gt;&lt;font&gt;feat/123&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="78.5" width="71.62" x="1980" y="841.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5NX7uhQruxXt2dHjfyV9-4" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="&lt;b style=&quot;text-align: left; border-color: rgb(218, 218, 218); font-family: arial; background-color: rgb(251, 251, 251); font-size: 14px;&quot;&gt;&lt;font&gt;feat/123&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="78.5" width="71.62" x="1990" y="851.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5NX7uhQruxXt2dHjfyV9-5" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="&lt;b style=&quot;text-align: left; border-color: rgb(218, 218, 218); font-family: arial; background-color: rgb(251, 251, 251); font-size: 14px;&quot;&gt;&lt;font&gt;feat/123&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="78.5" width="71.62" x="2000" y="861.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5NX7uhQruxXt2dHjfyV9-8" edge="1" parent="1" source="5NX7uhQruxXt2dHjfyV9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5NX7uhQruxXt2dHjfyV9-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5NX7uhQruxXt2dHjfyV9-6" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="&lt;b style=&quot;text-align: left; border-color: rgb(218, 218, 218); font-family: arial; background-color: rgb(251, 251, 251); font-size: 14px;&quot;&gt;&lt;font&gt;feat/123&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="78.5" width="71.62" x="2010" y="871.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5NX7uhQruxXt2dHjfyV9-7" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="&lt;b style=&quot;text-align: left; border-color: rgb(218, 218, 218); font-family: arial; background-color: rgb(251, 251, 251); font-size: 14px;&quot;&gt;&lt;font&gt;Main&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="70" x="2160.81" y="1120.63" as="geometry" />
+        </mxCell>
+        <mxCell id="5NX7uhQruxXt2dHjfyV9-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="PRD IS" vertex="1">
+          <mxGeometry height="60" width="120" x="2405.81" y="748" as="geometry" />
+        </mxCell>
+        <mxCell id="5NX7uhQruxXt2dHjfyV9-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="TST IS" vertex="1">
+          <mxGeometry height="60" width="120" x="2135.81" y="748" as="geometry" />
+        </mxCell>
+        <mxCell id="5NX7uhQruxXt2dHjfyV9-15" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="&lt;b style=&quot;text-align: left; border-color: rgb(218, 218, 218); font-family: arial; background-color: rgb(251, 251, 251); font-size: 14px;&quot;&gt;&lt;font&gt;&quot;DEV&quot;&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="78.5" width="71.62" x="2000" y="729.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5NX7uhQruxXt2dHjfyV9-18" edge="1" parent="1" source="5NX7uhQruxXt2dHjfyV9-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2335.8100000000004" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5NX7uhQruxXt2dHjfyV9-16" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="&lt;b style=&quot;text-align: left; border-color: rgb(218, 218, 218); font-family: arial; background-color: rgb(251, 251, 251); font-size: 14px;&quot;&gt;&lt;font&gt;release X&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;text-align: left; border-color: rgb(218, 218, 218); font-family: arial; background-color: rgb(251, 251, 251); font-size: 14px;&quot;&gt;&lt;font&gt;branch&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="78.5" width="71.62" x="2300" y="949.25" as="geometry" />
+        </mxCell>
+        <mxCell id="5NX7uhQruxXt2dHjfyV9-17" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="&lt;b style=&quot;text-align: left; border-color: rgb(218, 218, 218); font-family: arial; background-color: rgb(251, 251, 251); font-size: 14px;&quot;&gt;&lt;font&gt;hotfix/123&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="78.5" width="71.62" x="2010" y="1009.88" as="geometry" />
+        </mxCell>
+        <mxCell id="5NX7uhQruxXt2dHjfyV9-19" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px; background-color: rgb(251, 251, 251);&quot;&gt;&lt;font face=&quot;arial&quot;&gt;&lt;b&gt;JIRA Story&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="78.5" width="71.62" x="1830" y="850.0000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="5NX7uhQruxXt2dHjfyV9-20" edge="1" parent="1" source="5NX7uhQruxXt2dHjfyV9-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.048;entryY=0.604;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="5NX7uhQruxXt2dHjfyV9-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1900" y="890.7391304347827" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5NX7uhQruxXt2dHjfyV9-22" edge="1" parent="1" source="5NX7uhQruxXt2dHjfyV9-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5NX7uhQruxXt2dHjfyV9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5NX7uhQruxXt2dHjfyV9-21" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="&lt;b style=&quot;text-align: left; border-color: rgb(218, 218, 218); font-family: arial; background-color: rgb(251, 251, 251); font-size: 14px;&quot;&gt;&lt;font&gt;cicd/123&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="70" x="2160.81" y="1220.63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
